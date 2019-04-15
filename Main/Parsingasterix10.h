@@ -58,6 +58,13 @@ public:
 	void I010(struct data_item itemset);
 	void I020(struct data_item itemset);
 	void I140(struct data_item itemset);
+	void I161(struct data_item itemset);
+	void I210(struct data_item itemset);
+	void I202(struct data_item itemset);
+	void I000(struct data_item itemset);
+	void I042(struct data_item itemset);
+	void I040(struct data_item itemset);
+	void I091(struct data_item itemset);
 };
 
 #endif // !PARSEASTERIX_H
